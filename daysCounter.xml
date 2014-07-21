@@ -42,7 +42,7 @@
 			<code>29856</code>
 			<Bundle sr="arg0">
 				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>DAYCOUNTER=Úysformatted, Replace Tasker Variables</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB>DAYCOUNTER=%Daysformatted, Replace Tasker Variables</com.twofortyfouram.locale.intent.extra.BLURB>
 					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
 					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>net.hubalek.android.makeyourclock.extra.STRING_VARIABLE_VALUE</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
 					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
@@ -50,7 +50,7 @@
 					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
 					<net.hubalek.android.makeyourclock.extra.STRING_VARIABLE_NAME>DAYCOUNTER</net.hubalek.android.makeyourclock.extra.STRING_VARIABLE_NAME>
 					<net.hubalek.android.makeyourclock.extra.STRING_VARIABLE_NAME-type>java.lang.String</net.hubalek.android.makeyourclock.extra.STRING_VARIABLE_NAME-type>
-					<net.hubalek.android.makeyourclock.extra.STRING_VARIABLE_VALUE>Úysformatted</net.hubalek.android.makeyourclock.extra.STRING_VARIABLE_VALUE>
+					<net.hubalek.android.makeyourclock.extra.STRING_VARIABLE_VALUE>%Daysformatted</net.hubalek.android.makeyourclock.extra.STRING_VARIABLE_VALUE>
 					<net.hubalek.android.makeyourclock.extra.STRING_VARIABLE_VALUE-type>java.lang.String</net.hubalek.android.makeyourclock.extra.STRING_VARIABLE_VALUE-type>
 				</Vals>
 			</Bundle>
